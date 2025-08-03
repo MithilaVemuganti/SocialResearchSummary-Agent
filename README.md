@@ -20,17 +20,6 @@ Researchers and students often struggle to keep up with the growing volume of ac
 
 ---
 
-## 📥 How It Works
-
-```mermaid
-graph TD
-  A[User Input: Topic + Real Abstract] --> B[Granite LLM via Agent Lab]
-  B --> C[Generate AI Summary]
-  C --> D[Compare with Real Abstract]
-  D --> E[Score: Clarity, Completeness, Coverage]
-
----
-
 ## 💡 Technologies Used
 
 - **IBM Watsonx.ai Studio**
