@@ -16,7 +16,7 @@ Researchers and students often struggle to keep up with the growing volume of ac
 - 📊 Evaluates AI-generated summaries against real human-written abstracts
 - 🧠 Benchmarks summaries for clarity, completeness, and coverage
 - 🌐 Uses Google Search Tool for contextual information
-- ⚙️ Built with IBM Granite and Watsonx Prompt Lab
+- ⚙️ Built with IBM Granite and Watsonx Agent Lab
 
 ---
 
